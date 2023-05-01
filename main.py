@@ -21,7 +21,7 @@ async def load():
 async def main():
     async with bot:
         await load()
-        await bot.start("MTA1OTQyNjQ3MzUyNzc1MDY1Ng.GxiH4N.CYyDAiWTaLRB-Nd10EhyJToax-NtWUjjSZfHuA")
+        await bot.start("YOUR TOKEN")
         
 @bot.command()
 async def ping(ctx):
