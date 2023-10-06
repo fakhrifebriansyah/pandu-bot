@@ -1,9 +1,9 @@
-PANDU COMMAND BOT 
+CTX COMMAND BOT 
 $ping = Cek ping kalian yang ga seberapa itu
 $embed = Cek ava server
-$takon = Tanya apapun ke pendeta pandu
-$pandu_quote = Quote harian pendeta pandu
-$list_film = Rekomendasi film dari pendeta pandu
+$takon = Tanya (buat seru-seruan server)
+$pandu_quote = Quotes
+$list_film = List film
 $avatars / $avatars @member = Liat ava temen
 
 P.S setelah akhir command harap masukan pertanyaan atau tulisan apapun agar command ter-trigger. Untuk $avatars bisa tag member yang akan dilihat 
