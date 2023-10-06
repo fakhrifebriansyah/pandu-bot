@@ -1,7 +1,12 @@
-AYI BAIK HATI DAN TIDAK SOMBONG 
-DEMONG KNTL
-PANDU KNTL
-MALDINI KNTL
-ALDI KNTL
-ADI KNTL
-RIJAL KNTL
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagitarius
+Capricorn
+Aquarius
+Pisces
